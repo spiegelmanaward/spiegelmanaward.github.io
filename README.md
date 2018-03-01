@@ -33,53 +33,53 @@ The Spiegelman Award was established in 1970 by his sisters, Anna and Julia Spie
 
 ## Past Winners
 
-1970: Edward Perrin
-1971: P. A. Lachenbruch
-1972: Manning Feinleib
-1973: Joseph L Fleiss
-1974: Gary G. Koch
-1975: Jane Menken
-1976: A. A. Afifi
-1977: David Hoel
-1978: Ross Prentice
-1979: Mitchell H. Gail
-1980: Norman Breslow 
-1981: Robert F. Woolson
-1982: Joel Kleinman
-1983: J. Richard Landis
-1984: Stephen Lagakos
-1985: John Crowley
-1986: Anastasios Tsiatis
-1987: L. J. Wei
-1988: Thomas Fleming
-1989: Colin B. Begg
-1990: Kung-Yee Liang
-1991: Scott L. Zeger
-1992: Ronald S. Brookmeyer
-1993: Martin Abba Tanner
-1994: Louise M. Ryan
-1995: Christopher J. Portier
-1996: Jeremy M. G. Taylor
-1997: Margaret S Pepe
-1998: Peter Bacchetti
-1999: Danyu Lin
-2000: Bradley P. Carlin
-2001: Daniel E. Weeks
-2002: Xihong Lin
-2003: Michael Newton
-2004: Mark van der Laan
-2005: Rebecca Betensky
-2006: Francesca Dominici
-2007: David Dunson
-2008: Hongyu Zhao
-2009: Rafael Irizarry
-2010: Nilanjan Chatterjee
-2011: Sudipto Banerjee
-2012: Amy Herring
-2013: Debashis Ghosh
-2014: Tyler VanderWeele
-2015: John D. Storey
-2016: Roger Peng
-2017: Limin Peng
+1970. Edward Perrin
+1971. P. A. Lachenbruch
+1972. Manning Feinleib
+1973. Joseph L Fleiss
+1974. Gary G. Koch
+1975. Jane Menken
+1976. A. A. Afifi
+1977. David Hoel
+1978. Ross Prentice
+1979. Mitchell H. Gail
+1980. Norman Breslow 
+1981. Robert F. Woolson
+1982. Joel Kleinman
+1983. J. Richard Landis
+1984. Stephen Lagakos
+1985. John Crowley
+1986. Anastasios Tsiatis
+1987. L. J. Wei
+1988. Thomas Fleming
+1989. Colin B. Begg
+1990. Kung-Yee Liang
+1991. Scott L. Zeger
+1992. Ronald S. Brookmeyer
+1993. Martin Abba Tanner
+1994. Louise M. Ryan
+1995. Christopher J. Portier
+1996. Jeremy M. G. Taylor
+1997. Margaret S Pepe
+1998. Peter Bacchetti
+1999. Danyu Lin
+2000. Bradley P. Carlin
+2001. Daniel E. Weeks
+2002. Xihong Lin
+2003. Michael Newton
+2004. Mark van der Laan
+2005. Rebecca Betensky
+2006. Francesca Dominici
+2007. David Dunson
+2008. Hongyu Zhao
+2009. Rafael Irizarry
+2010. Nilanjan Chatterjee
+2011. Sudipto Banerjee
+2012. Amy Herring
+2013. Debashis Ghosh
+2014. Tyler VanderWeele
+2015. John D. Storey
+2016. Roger Peng
+2017. Limin Peng
 
 
