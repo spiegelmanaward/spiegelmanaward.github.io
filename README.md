@@ -19,4 +19,4 @@ Please email the following to the award committee chair, John Storey, at spiegel
 
 1. A nominating letter that states the candidate’s date of birth and how their contributions relate to public health concerns
 2. Up to three letters of support
-3. The candidate’s CV , at e-mail jstorey@princeton.edu. Nominations are due by April 1, 2018.
+3. The candidate’s detailed CV
