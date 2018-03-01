@@ -33,10 +33,13 @@ The Spiegelman Award was established in 1970 by his sisters, Anna and Julia Spie
 
 ## Past Winners
 
- 1970. Edward Perrin
- 1971. P. A. Lachenbruch
- 1972. Manning Feinleib
- 1973. Joseph L Fleiss
+1970 -- Edward Perrin
+
+1971 -- P. A. Lachenbruch
+
+1972 -- Manning Feinleib
+
+1973 -- Joseph L Fleiss
 
 
 1974. Gary G. Koch
