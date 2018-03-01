@@ -37,49 +37,48 @@ The Spiegelman Award was established in 1970 by his sisters, Anna and Julia Spie
 1971 -- P. A. Lachenbruch<br>
 1972 -- Manning Feinleib<br>
 1973 -- Joseph L Fleiss<br>
-1974. Gary G. Koch<br>
-1975. Jane Menken<br>
-1976. A. A. Afifi<br>
-1977. David Hoel<br>
-1978. Ross Prentice<br>
-1979. Mitchell H. Gail<br>
-1980. Norman Breslow<br>
-1981. Robert F. Woolson<br>
-1982. Joel Kleinman<br>
-1983. J. Richard Landis<br>
-1984. Stephen Lagakos<br>
-1985. John Crowley<br>
-1986. Anastasios Tsiatis<br>
-1987. L. J. Wei<br>
-1988. Thomas Fleming<br>
-1989. Colin B. Begg<br>
-1990. Kung-Yee Liang<br>
-1991. Scott L. Zeger<br>
-1992. Ronald S. Brookmeyer<br>
-1993. Martin Abba Tanner<br>
-1994. Louise M. Ryan<br>
-1995. Christopher J. Portier<br>
-1996. Jeremy M. G. Taylor<br>
-1997. Margaret S Pepe<br>
-1998. Peter Bacchetti<br>
-1999. Danyu Lin<br>
-2000. Bradley P. Carlin<br>
-2001. Daniel E. Weeks<br>
-2002. Xihong Lin<br>
-2003. Michael Newton<br>
-2004. Mark van der Laan<br>
-2005. Rebecca Betensky<br>
-2006. Francesca Dominici<br>
-2007. David Dunson<br>
-2008. Hongyu Zhao<br>
-2009. Rafael Irizarry<br>
-2010. Nilanjan Chatterjee<br>
-2011. Sudipto Banerjee<br>
-2012. Amy Herring<br>
-2013. Debashis Ghosh<br>
-2014. Tyler VanderWeele<br>
-2015. John D. Storey<br>
-2016. Roger Peng<br>
-2017. Limin Peng<br>
-
+1974 -- Gary G. Koch<br>
+1975 -- Jane Menken<br>
+1976 -- A. A. Afifi<br>
+1977 -- David Hoel<br>
+1978 -- Ross Prentice<br>
+1979 -- Mitchell H. Gail<br>
+1980 -- Norman Breslow<br>
+1981 -- Robert F. Woolson<br>
+1982 -- Joel Kleinman<br>
+1983 -- J. Richard Landis<br>
+1984 -- Stephen Lagakos<br>
+1985 -- John Crowley<br>
+1986 -- Anastasios Tsiatis<br>
+1987 -- L. J. Wei<br>
+1988 -- Thomas Fleming<br>
+1989 -- Colin B. Begg<br>
+1990 -- Kung-Yee Liang<br>
+1991 -- Scott L. Zeger<br>
+1992 -- Ronald S. Brookmeyer<br>
+1993 -- Martin Abba Tanner<br>
+1994 -- Louise M. Ryan<br>
+1995 -- Christopher J. Portier<br>
+1996 -- Jeremy M. G. Taylor<br>
+1997 -- Margaret S Pepe<br>
+1998 -- Peter Bacchetti<br>
+1999 -- Danyu Lin<br>
+2000 -- Bradley P. Carlin<br>
+2001 -- Daniel E. Weeks<br>
+2002 -- Xihong Lin<br>
+2003 -- Michael Newton<br>
+2004 -- Mark van der Laan<br>
+2005 -- Rebecca Betensky<br>
+2006 -- Francesca Dominici<br>
+2007 -- David Dunson<br>
+2008 -- Hongyu Zhao<br>
+2009 -- Rafael Irizarry<br>
+2010 -- Nilanjan Chatterjee<br>
+2011 -- Sudipto Banerjee<br>
+2012 -- Amy Herring<br>
+2013 -- Debashis Ghosh<br>
+2014 -- Tyler VanderWeele<br>
+2015 -- John D. Storey<br>
+2016 -- Roger Peng<br>
+2017 -- Limin Peng<br>
 
