@@ -13,6 +13,15 @@ The award is open to early career investigators regardless of race, gender, sexu
 - Candidate must be under age 40 throughout the award calendar year; or
 - Candidate must have obtained a terminal degree in statistics or a statistics-related field in the last 10 years.
 
+For those receiving a terminal degree after considerable professional experience, contributions during and subsequent to the degree will be considered by the committee, and nominators are strongly encouraged to contact the Committee Chair with any questions about whether the nominee qualifies as an early career investigator.
+ 
+Please email the following to the award committee chair, Roger Peng, at `rdpeng @ jhu.edu` by **April 19, 2019**:
+
+1. A nominating letter that states the candidate’s date of birth and how their contributions relate to public health concerns
+2. Up to three letters of support
+3. The candidate’s detailed CV
+
+
 ## About Mortimer Spiegelman
 
 Mortimer Spiegelman (1901-1969) was an actuary, biostatistician, and demographer who made exceptional contributions to public health. His contributions have continued posthumously through the APHA's Statistics Section's Mortimer Spiegelman Award.
