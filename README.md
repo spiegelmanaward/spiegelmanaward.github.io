@@ -15,7 +15,7 @@ The award is open to early career investigators regardless of race, gender, sexu
 
 For those receiving a terminal degree after considerable professional experience, contributions during and subsequent to the degree will be considered by the committee, and nominators are strongly encouraged to contact the Committee Chair with any questions about whether the nominee qualifies as an early career investigator.
  
-Please email the following to the award committee chair, Roger Peng, at `rdpeng @ jhu.edu` by **April 19, 2019**:
+Please email the following to the award committee chair, Roger Peng, at `rdpeng @ jhu.edu` by **April 26, 2019**:
 
 1. A nominating letter that states the candidate’s date of birth and how their contributions relate to public health concerns
 2. Up to three letters of support
