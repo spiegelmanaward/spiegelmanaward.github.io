@@ -82,4 +82,5 @@ Mr. Spiegelman was a Fellow of the Society of Actuaries, a Fellow of the America
 2016 -- Roger Peng<br>
 2017 -- Limin Peng<br>
 2018 -- Raphael Gottardo<br>
+2019 -- Daniela Witten<br>
 
