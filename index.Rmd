@@ -34,7 +34,7 @@ __Nominations are due by May 1st of the award calendar year, but due to the pand
 2. Up to three letters of support
 3. The candidate’s detailed CV
 
- <a href="mailto:jtleek@hey.com?subject=Spiegelman+Award+Nomination">
+ <a href="mailto:spiegelman.nomination@gmail.com ?subject=Spiegelman+Award+Nomination">
   <button type="button" class="btn btn-outline-light mb-2">
     Submit Nomination
   </button>
