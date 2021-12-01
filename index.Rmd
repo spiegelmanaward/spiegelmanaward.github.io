@@ -6,7 +6,7 @@ color2: "#C66060"
 angle: 130
 links:
   - label: Submit Nomination
-    url: "mailto:jtleek@hey.com?subject=Spiegelman+Award+Nomination"
+    url: "mailto:spiegelman.nomimation@gmail.com?subject=Spiegelman+Award+Nomination"
 output:
   postcards::onofre
 ---
@@ -27,10 +27,11 @@ The award is open to early career investigators regardless of race, gender, sexu
 
 For those receiving a terminal degree after considerable professional experience, or with extenuating life circumstances such as the birth of a child, the committee will make exceptions to the eligibility requirements. If extenuating circumstances impact the eligibility of your nominee, please include a description in your nominating letter. 
  
-__Nominations are due by May 1st of the award calendar year, but due to the pandemic we have moved the deadline to May 15, 2021 for this year's award.__
+__Nominations are due by May 1st of the award calendar year.__
 
+A nomination should include the following items:
 
-1. A nominating letter that states the candidate’s date of birth and how their contributions relate to public health concerns
+1. A nominating letter that states the candidate’s date of birth, and that describes contributions to statistics for public health
 2. Up to three letters of support
 3. The candidate’s detailed CV
 
