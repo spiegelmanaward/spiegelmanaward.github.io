@@ -27,7 +27,7 @@ The award is open to early career investigators regardless of race, gender, sexu
 
 For those receiving a terminal degree after considerable professional experience, or with extenuating life circumstances such as the birth of a child, the committee will make exceptions to the eligibility requirements. If extenuating circumstances impact the eligibility of your nominee, please include a description in your nominating letter. 
  
-__Nominations are due by May 1st of the award calendar year.__
+__Nominations are due by June 1st of the award calendar year.__
 
 A nomination should include the following items:
 
@@ -35,7 +35,7 @@ A nomination should include the following items:
 2. Up to three letters of support
 3. The candidate’s detailed CV
 
- <a href="mailto:spiegelman.nomination@gmail.com ?subject=Spiegelman+Award+Nomination">
+ <a href="mailto:spiegelman.nomination@gmail.com?subject=Spiegelman+Award+Nomination+2023">
   <button type="button" class="btn btn-outline-light mb-2">
     Submit Nomination
   </button>
@@ -104,6 +104,6 @@ Mr. Spiegelman was a Fellow of the Society of Actuaries, a Fellow of the America
 2018 -- Raphael Gottardo<br>
 2019 -- Daniela Witten<br>
 2020 -- Jeffrey Leek <br>
-2021 -- Sherri Rose 
-
+2021 -- Sherri Rose <br>
+2022 -- Ryan Tibshirani
 
