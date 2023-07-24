@@ -82,4 +82,6 @@ Mr. Spiegelman was a Fellow of the Society of Actuaries, a Fellow of the America
 2018 -- Raphael Gottardo<br>
 2019 -- Daniela Witten<br>
 2020 -- Jeff Leek <br> 
+2021 -- Sherri Rose <br> 
+2022 -- Ryan Tibshirani <br> 
 
