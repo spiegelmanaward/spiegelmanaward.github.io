@@ -35,7 +35,7 @@ A nomination should include the following items:
 2. Up to three letters of support
 3. The candidate’s detailed CV
 
- <a href="mailto:spiegelman.nomination@gmail.com?subject=Spiegelman+Award+Nomination+2023">
+ <a href="mailto:spiegelman.nomination@gmail.com?subject=Spiegelman+Award+Nomination+2024">
   <button type="button" class="btn btn-outline-light mb-2">
     Submit Nomination
   </button>
