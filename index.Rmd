@@ -6,7 +6,7 @@ color2: "#C66060"
 angle: 130
 links:
   - label: Submit Nomination
-    url: "mailto:spiegelman.nomimation2024@gmail.com?subject=Spiegelman+Award+Nomination"
+    url: "mailto:spiegelman.nomination2024@gmail.com?subject=Spiegelman+Award+Nomination"
 output:
   postcards::onofre
 ---
