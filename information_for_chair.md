@@ -36,11 +36,11 @@ Starting in January you will want to:
 
 ## Gather Nominations
 
-We currently have the nominations going to the email address spiegelman.nomination@gmail.com. You can reach out to the previous chair who can give you the password to this email address. You can then use gmail to set up forwarding of this email to your work/personal email. This way the nomination email address stays consistent year to year, but you get all the nominations. 
+The current process is to create a new email address for nominations each year. For example, in 2024, we had the nominations going to the email address spiegelman.nomination2024@gmail.com. This avoids previous issues in trying to pass a consistent email address to new chairs from year to year. You can use gmail to set up forwarding of this email to your work/personal email. This way the nomination email address stays consistent year to year, but you get all the nominations. 
 
-**Caution** in past years, some of the nomination forms did not get forwarded from the gmail address and were, in fact, stuck in the spam folder of the Gmail address. Make sure you check the spam folder after the deadline to ensure you didn't miss any nominations!!!
+**Caution** In past years, some of the nomination forms did not get forwarded from the gmail address and were, in fact, stuck in the spam folder of the Gmail address. Make sure you check the spam folder after the deadline to ensure you didn't miss any nominations!!!
 
-In past years, we have taken the nomination materials and placed them in a Google Drive folder, one subfolder per nomination. This Google Drive folder can then be shared with the committee members. 
+In past years, we have taken the nomination materials and placed them in a Google Drive or DropBox folder, one subfolder per nomination. This folder can then be shared with the committee members. Alternatively, PDF packets can be emailed to committee members.
 
 ## Organize the scoring 
 
@@ -61,7 +61,7 @@ Each candidate is scored on all four categories using the scale:
 2. Very Good
 3. Excellent
 
-Conflicts are annotated and typically we calculate scores with and without conflicts to see if there are serious descrepancies that should be addressed during the committee meeting. 
+Conflicts are annotated and typically we calculate scores with and without conflicts to see if there are serious descrepancies that should be addressed during the committee meeting. For major conflicts where a committee member would not feel comfortable scoring a candidate, which has come up, they should discuss this with the committee chair.
 
 ## Organize the commitee meeting
 
