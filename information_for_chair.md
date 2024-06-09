@@ -36,7 +36,7 @@ Starting in January you will want to:
 
 ## Gather Nominations
 
-The current process is to create a new email address for nominations each year. For example, in 2024, we had the nominations going to the email address spiegelman.nomination2024@gmail.com. This avoids previous issues in trying to pass a consistent email address to new chairs from year to year. You can use gmail to set up forwarding of this email to your work/personal email. This way the nomination email address stays consistent year to year, but you get all the nominations. 
+The current process is to create a new email address for nominations each year. For example, in 2024, we had the nominations going to the email address spiegelman.nomination2024@gmail.com. This avoids previous issues in trying to pass an email address to new chairs from year to year. You can use gmail to set up forwarding of this email to your work/personal email. 
 
 **Caution** In past years, some of the nomination forms did not get forwarded from the gmail address and were, in fact, stuck in the spam folder of the Gmail address. Make sure you check the spam folder after the deadline to ensure you didn't miss any nominations!!!
 
