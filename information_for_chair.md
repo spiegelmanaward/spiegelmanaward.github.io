@@ -14,7 +14,7 @@ When you are chairing the Spiegelman Award Committee you have several responsibi
 
 ## How to update this website
 
-The first thing you'll want to do is update this website. You will want to do this in January of the nomination year. You want to update the nomination date https://www.spiegelmanaward.org/. It is currently set to June 1, but in a lot of the APHA nomination materials the date is May 1. You can make this decision and confirm it with the APHA then update the website. 
+The first thing you'll want to do is update this website. You will want to do this in January of the nomination year. You want to update the nomination date https://www.spiegelmanaward.org/. It is currently set to May 1. You can make this decision and confirm it with the APHA then update the website. 
 
 To update this website: 
 
@@ -38,9 +38,9 @@ Starting in January you will want to:
 
 The current process is to create a new email address for nominations each year. For example, in 2024, we had the nominations going to the email address spiegelman.nomination2024@gmail.com. This avoids previous issues in trying to pass an email address to new chairs from year to year. You can use gmail to set up forwarding of this email to your work/personal email. 
 
-**Caution** In past years, some of the nomination forms did not get forwarded from the gmail address and were, in fact, stuck in the spam folder of the Gmail address. Make sure you check the spam folder after the deadline to ensure you didn't miss any nominations!!!
+**Caution** In past years, some of the nomination forms did not get forwarded from the gmail address and were, in fact, stuck in the spam folder of the Gmail address. Make sure you check the spam folder after the deadline to ensure you didn't miss any nominations!
 
-In past years, we have taken the nomination materials and placed them in a Google Drive or DropBox folder, one subfolder per nomination. This folder can then be shared with the committee members. Alternatively, PDF packets can be emailed to committee members.
+In past years, we have taken the nomination materials and placed them in a Google Drive or DropBox folder. This folder can then be shared with the committee members. Alternatively, PDF packets can be emailed to committee members.
 
 ## Organize the scoring 
 
@@ -61,7 +61,7 @@ Each candidate is scored on all four categories using the scale:
 2. Very Good
 3. Excellent
 
-Conflicts are annotated and typically we calculate scores with and without conflicts to see if there are serious descrepancies that should be addressed during the committee meeting. For major conflicts where a committee member would not feel comfortable scoring a candidate, which has come up, they should discuss this with the committee chair.
+Conflicts are annotated and typically we calculate scores with and without conflicts to see if there are serious descrepancies that should be addressed during the committee meeting. For major conflicts where a committee member would not feel comfortable scoring a candidate, which has come up, they should discuss this with the committee chair. It is helpful for the committee chair to devise a plan a priori for conflicts if a member has such a strong conflict they should not be scoring or ranking any finalists.
 
 ## Organize the commitee meeting
 
@@ -69,7 +69,7 @@ We typically organize one committee meeting to evaluate once the scores are comp
 
 ## Notify the Awardee
 
-When you have decided on an Awardee, the tradition has been to email or call the awardee and let the nominator of the awardee know as well. It ia also important to reach out to the nominators of all the other candidates and let them know that their nominee was not selected. It is a ton of work for the nominees to put these in, so be sure to thank nominators for their effort as well! 
+When you have decided on an Awardee, the tradition has been to email or call the awardee and let the nominator of the awardee know as well. It is also important to reach out to the nominators of all the other candidates and let them know that their nominee was not selected. It is a ton of work for the nominees to put these in, so be sure to thank nominators for their effort as well! 
 
 ## Update the Spiegelman Award Website
 
