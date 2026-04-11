@@ -84,5 +84,7 @@ Mr. Spiegelman was a Fellow of the Society of Actuaries, a Fellow of the America
 2020 -- Jeff Leek <br> 
 2021 -- Sherri Rose <br> 
 2022 -- Ryan Tibshirani <br> 
-2023 -- Russell Shinohara <br>
-2024 -- Edward H. Kennedy
+2023 -- Russell (Taki) Shinohara <br>
+2024 -- Edward H. Kennedy <br>
+2024 -- Jingyi Jessica Li <br>
+
