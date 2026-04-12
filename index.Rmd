@@ -6,7 +6,7 @@ color2: "#C66060"
 angle: 130
 links:
   - label: Submit Nomination
-    url: "mailto:spiegelman.nomination2025@gmail.com?subject=Spiegelman+Award+Nomination"
+    url: "mailto:spiegelman.nomination2026@gmail.com?subject=Spiegelman+Award+Nomination"
 output:
   postcards::onofre
 ---
@@ -35,7 +35,7 @@ A nomination should include the following items:
 2. Up to three letters of support
 3. The candidate’s detailed CV
 
- <a href="mailto:spiegelman.nomination2025@gmail.com?subject=Spiegelman+Award+Nomination">
+ <a href="mailto:spiegelman.nomination2026@gmail.com?subject=Spiegelman+Award+Nomination">
   <button type="button" class="btn btn-outline-light mb-2">
     Submit Nomination
   </button>
@@ -106,6 +106,7 @@ Mr. Spiegelman was a Fellow of the Society of Actuaries, a Fellow of the America
 2020 -- Jeffrey Leek <br>
 2021 -- Sherri Rose <br>
 2022 -- Ryan Tibshirani <br> 
-2023 -- Russell Shinohara <br>
-2024 -- Edward H. Kennedy
+2023 -- Russell (Taki) Shinohara <br>
+2024 -- Edward H. Kennedy <br>
+2025 -- Jingyi Jessica Li
 
